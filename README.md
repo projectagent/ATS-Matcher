@@ -1,7 +1,6 @@
 # ATS Matcher — Otimizador Ético de Currículos para Sistemas ATS
 
-> **🚀 Aplicação Publicada:** [Acesse o ATS Matcher ao vivo aqui](https://projectagent.github.io/ATS-Matcher)  
-> **Repositório GitHub:** [https://github.com/projectagent/ATS-Matcher](https://github.com/projectagent/ATS-Matcher)
+> **Aplicação Publicada:** [Acesse o ATS Matcher ao vivo aqui](https://projectagent.github.io/ATS-Matcher)  
 
 ---
 
