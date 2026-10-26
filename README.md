@@ -145,6 +145,6 @@ npm run build
 
 ## 📸 Evidências Visuais e Telas
 
-- ![Interface de Input com Vaga e Currículo preenchidos](./caminho/para/imagem-input.png)
-- ![Dashboard de Resultados e Match Score](./caminho/para/imagem-dashboard.png)
-- ![Trecho do Currículo Otimizado Gerado](./caminho/para/imagem-curriculo.png)
+- ![Interface de Input com Vaga e Currículo preenchidos](./docs/screenshots/imagem-input.png)
+- ![Dashboard de Resultados e Match Score](./docs/screenshots/imagem-dashboard.png)
+- ![Trecho do Currículo Otimizado Gerado](./docs/screenshots/imagem-curriculo.png)
