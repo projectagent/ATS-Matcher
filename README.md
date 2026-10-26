@@ -1,5 +1,8 @@
 # ATS Matcher — Otimizador Ético de Currículos para Sistemas ATS
 
+> **🚀 Aplicação Publicada:** [Acesse o ATS Matcher ao vivo aqui](https://projectagent.github.io/ATS-Matcher)  
+> **Repositório GitHub:** [https://github.com/projectagent/ATS-Matcher](https://github.com/projectagent/ATS-Matcher)
+
 ---
 
 ## 🎯 1. Qual problema a aplicação resolve?
@@ -137,3 +140,11 @@ npm run lint
 # Compilar para produção
 npm run build
 ```
+
+---
+
+## 📸 Evidências Visuais e Telas
+
+- ![Interface de Input com Vaga e Currículo preenchidos](./caminho/para/imagem-input.png)
+- ![Dashboard de Resultados e Match Score](./caminho/para/imagem-dashboard.png)
+- ![Trecho do Currículo Otimizado Gerado](./caminho/para/imagem-curriculo.png)
