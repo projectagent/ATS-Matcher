@@ -1,8 +1,5 @@
 # ATS Matcher — Otimizador Ético de Currículos para Sistemas ATS
 
-> **Aplicação Publicada:** [https://projectagent.github.io/ATS-Matcher/](https://projectagent.github.io/ATS-Matcher/)  
-> **Repositório GitHub:** [https://github.com/projectagent/ATS-Matcher](https://github.com/projectagent/ATS-Matcher)
-
 ---
 
 ## 🎯 1. Qual problema a aplicação resolve?
@@ -111,14 +108,7 @@ Após o primeiro ciclo de geração, foram refinados três aspectos essenciais:
 
 ---
 
-## 🌐 5. Endereço da Aplicação Publicada
-
-- **Link de Acesso Direto:** [https://projectagent.github.io/ATS-Matcher/](https://projectagent.github.io/ATS-Matcher/)
-- **Repositório no GitHub:** [https://github.com/projectagent/ATS-Matcher](https://github.com/projectagent/ATS-Matcher)
-
----
-
-## 💡 6. Ideias para Evolução Futura
+## 💡 5. Ideias para Evolução Futura
 
 - [ ] **Exportação em formato `.docx`:** Para permitir que o candidato faça edições manuais personalizadas antes do envio final.
 - [ ] **Persistência de Histórico (Banco de Dados):** Armazenamento das vagas analisadas e do histórico de evolução do Match Score.
@@ -128,7 +118,7 @@ Após o primeiro ciclo de geração, foram refinados três aspectos essenciais:
 
 ---
 
-## 🧪 7. Tecnologias Utilizadas & Verificação
+## 🧪 6. Tecnologias Utilizadas & Verificação
 
 - **Framework:** React 19 + TypeScript + Vite
 - **Estilização:** Tailwind CSS v4 (Padrão shadcn/ui)
